@@ -6,7 +6,7 @@ Download the data set named as BTC-UCD
 
 # step-2 
 
-Download the python source code named as BIT_COIN.py
+Download the python source code named as Bit_Coin.py
 
 # step-3
 
